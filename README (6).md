@@ -9,8 +9,21 @@ A full-stack pizza delivery web application built with React, Node.js, Express, 
 
 Live Demo
 
-- **Frontend:** [Add your Vercel URL here]
-- **Backend API:** [Add your Render URL here]
+- Frontend:** 
+- Backend API:
+- <img width="265" height="269" alt="Screenshot 2026-06-15 at 7 18 56 AM" src="https://github.com/user-attachments/assets/ed0dc4fe-3f25-402f-a757-1d2b9af7a35f" />
+<img width="276" height="227" alt="Screenshot 2026-06-15 at 7 19 12 AM" src="https://github.com/user-attachments/assets/d725acb2-0611-4210-b766-c89022852494" />
+
+<img width="254" height="294" alt="Screenshot 2026-06-15 at 7 19 21 AM" src="https://github.com/user-attachments/assets/0632fec0-38b5-45f3-adb3-586393efe441" />
+<img width="262" height="249" alt="Screenshot 2026-06-15 at 7 20 53 AM" src="https://github.com/user-attachments/assets/fba3cc09-722c-469d-b2c5-03516b8dc7b6" />
+<img width="248" height="200" alt="Screenshot 2026-06-15 at 6 46 46 AM" src="https://github.com/user-attachments/assets/45e73fe2-2187-46d8-9603-27dd0a6f8ffc" />
+<img width="256" height="270" alt="Screenshot 2026-06-15 at 7 21 24 AM" src="https://github.com/user-attachments/assets/bd997fc5-171c-41b8-bd3c-1f44522c0c15" />
+<img width="264" height="232" alt="Screenshot 2026-06-15 at 6 45 45 AM" src="https://github.com/user-attachments/assets/b4452ca7-2f69-4c5d-9332-b63c4bbcc46e" />
+<img width="241" height="283" alt="Screenshot 2026-06-15 at 5 45 24 AM" src="https://github.com/user-attachments/assets/5bdf43b5-3653-427d-a28c-a5c37262e1d5" />
+
+
+
+
 
 ---
 
