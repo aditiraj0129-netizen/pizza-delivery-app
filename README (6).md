@@ -1,4 +1,4 @@
-# 🍕 Pizza Delivery App
+🍕 Pizza Delivery App
 
 A full-stack pizza delivery web application built with React, Node.js, Express, and MongoDB.
 
@@ -6,34 +6,32 @@ A full-stack pizza delivery web application built with React, Node.js, Express, 
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
 
----
 
-## 🌐 Live Demo
+Live Demo
 
 - **Frontend:** [Add your Vercel URL here]
 - **Backend API:** [Add your Render URL here]
 
 ---
 
-## ✨ Features
+ Features
 
-### User Side
-- 🔐 Register with email verification
-- 🔑 Login / Forgot Password / Reset Password
-- 🍕 Custom pizza builder — choose base, sauce, cheese & veggies
-- 💳 Razorpay payment gateway (test mode)
-- 📦 Real-time order tracking with live status updates
-- 📧 Email notifications on every status change
+ User Side
+-  Register with email verification
+-  Login / Forgot Password / Reset Password
+-  Custom pizza builder — choose base, sauce, cheese & veggies
+-  Razorpay payment gateway (test mode)
+-  Real-time order tracking with live status updates
+-  Email notifications on every status change
 
-### Admin Side
-- 📋 View and manage all orders
-- 🔄 Update order status (Order Received → In Kitchen → Sent to Delivery → Delivered)
-- 📦 Inventory management — track all ingredients
-- ⚠️ Automatic low stock email alerts
+Admin Side
+- View and manage all orders
+-  Update order status (Order Received → In Kitchen → Sent to Delivery → Delivered)
+-  Inventory management — track all ingredients
+-  Automatic low stock email alerts
 
 ---
-
-## 🛠️ Tech Stack
+ Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -47,7 +45,7 @@ A full-stack pizza delivery web application built with React, Node.js, Express, 
 
 ---
 
-## 📁 Project Structure
+Project Structure
 
 ```
 pizza-delivery-app/
@@ -108,7 +106,7 @@ pizza-delivery-app/
 
 ---
 
-### 1. Clone the repository
+ 1. Clone the repository
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/pizza-delivery-app.git
@@ -117,7 +115,7 @@ cd pizza-delivery-app
 
 ---
 
-### 2. Backend Setup
+2. Backend Setup
 
 ```bash
 cd backend
@@ -146,7 +144,7 @@ npm run dev
 You should see:
 ```
 ✅ MongoDB connected
-🚀 Server running on port 8000
+ Server running on port 8000
 ```
 
 ---
@@ -205,12 +203,9 @@ Use these in Razorpay test modal:
 | Expiry | `12/28` |
 | CVV | `123` |
 | Name | Any name |
+ API Endpoints
 
----
-
-## 🔑 API Endpoints
-
-### Auth
+ Auth
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | POST | `/api/auth/register` | Register new user |
@@ -219,13 +214,13 @@ Use these in Razorpay test modal:
 | POST | `/api/auth/forgot-password` | Send reset link |
 | POST | `/api/auth/reset-password/:token` | Reset password |
 
-### Pizza
+ Pizza
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | GET | `/api/pizza/options` | Get customization options |
 | GET | `/api/pizza` | Get all pizzas |
 
-### Orders
+Orders
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | POST | `/api/orders/create-payment` | Initiate Razorpay payment |
@@ -234,7 +229,7 @@ Use these in Razorpay test modal:
 | GET | `/api/orders/admin/all` | Admin: get all orders |
 | PUT | `/api/orders/admin/:id/status` | Admin: update order status |
 
-### Inventory
+ Inventory
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | GET | `/api/inventory` | Admin: view all stock |
@@ -243,7 +238,7 @@ Use these in Razorpay test modal:
 
 ---
 
-## 🚢 Deployment
+ Deployment
 
 ### Backend → Render
 1. Connect GitHub repo on [render.com](https://render.com)
@@ -251,32 +246,31 @@ Use these in Razorpay test modal:
 3. Build: `npm install` | Start: `npm start`
 4. Add all environment variables
 
-### Frontend → Vercel
+Frontend → Vercel
 1. Connect GitHub repo on [vercel.com](https://vercel.com)
 2. Root directory: `frontend`
 3. Add environment variables with your Render backend URL
 
 ---
 
-## 📸 Screenshots
+Screenshots
 
 > Add screenshots here after deployment
 
 ---
 
-## 🤝 Contributing
+ Contributing
 
 Pull requests are welcome! For major changes, please open an issue first.
 
 ---
 
-## 📄 License
+ License
 
 MIT License — feel free to use this project for learning or as a base for your own app.
 
 ---
 
-## 👩‍💻 Author
+ Author
 
-**Aditi Singh**  
-[GitHub](https://github.com/YOUR_USERNAME) · [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+
