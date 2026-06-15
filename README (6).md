@@ -9,7 +9,7 @@ A full-stack pizza delivery web application built with React, Node.js, Express, 
 
 Live Demo
 
-- Frontend: https://pizza-delivery-app-alpha.vercel.app/dashboard
+- Frontend: https://pizza-delivery-app-alpha.vercel.app/
 - Backend API: https://pizza-delivery-app-1-m9vt.onrender.com/api/health
 - <img width="265" height="269" alt="Screenshot 2026-06-15 at 7 18 56 AM" src="https://github.com/user-attachments/assets/ed0dc4fe-3f25-402f-a757-1d2b9af7a35f" />
 <img width="276" height="227" alt="Screenshot 2026-06-15 at 7 19 12 AM" src="https://github.com/user-attachments/assets/d725acb2-0611-4210-b766-c89022852494" />
